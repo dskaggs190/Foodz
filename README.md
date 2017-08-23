@@ -1,7 +1,7 @@
 <html>
   <div class="jumbotron text-center">
   <div class"page-header">
-  <h1>We have Foodz</h1>
+  <h1>Resturant</h1>
   <p>Resize this responsive page to see the effect!</p> 
 </div>
 
