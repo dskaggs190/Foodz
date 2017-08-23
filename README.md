@@ -2,7 +2,9 @@
   <div class="jumbotron text-center">
   <div class"page-header">
   <h1>Resturant</h1>
-  <p>Resize this responsive page to see the effect!</p> 
+    <div class"page-header">
+      <form>
+        <input type="home"/> <input type="Menu"/> <input type="Contact Us"/><br/>
 </div>
 
 <div class="container">
